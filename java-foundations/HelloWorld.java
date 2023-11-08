@@ -5,11 +5,11 @@
 public class HelloWorld {
   public static void main(String[] args) {
     int dataTypeInt = 10;
-    double dataTypeDouble = 3.14;
-    float dataTypeFloat = 3.14f;
-    long dataTypeLong = 123123123L;
-    String dataTypeString = "Put a text here.";
-    boolean dataTypeBoolean = false;
+    // double dataTypeDouble = 3.14;
+    // float dataTypeFloat = 3.14f;
+    // long dataTypeLong = 123123123L;
+    // String dataTypeString = "Put a text here.";
+    // boolean dataTypeBoolean = false;
 
     if (dataTypeInt == 10) {
       // sysout
