@@ -1,4 +1,6 @@
+package firstClasses;
 // HelloWorld = my class name
+
 // public = access type
 // class = class type
 
