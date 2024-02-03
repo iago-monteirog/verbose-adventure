@@ -5,8 +5,8 @@ services:
     container_name: gestao_vagas_postgres
     image: postgres
     ports:
-      - 5433:5432
+      - 5432:5432
     environment:
-      - POSTGRES_USER=iago_admin
-      - POSTGRES_PASSWORD=0123456
+      - POSTGRES_USER=iago
+      - POSTGRES_PASSWORD=iago
       - POSTGRES_DB=gestao_vagas
